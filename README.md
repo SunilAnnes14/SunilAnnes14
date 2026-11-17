@@ -70,7 +70,7 @@ const sunil = {
 
 <br/><br/>
 
-<a href="https://sunilannesskportfolio.vercel.app/">
+<a href="https://sunil-annes-sk.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Portfolio"/>
 </a>
 
@@ -175,7 +175,7 @@ const sunil = {
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://sunilannesskportfolio.vercel.app/">
+<a href="https://sunil-annes-sk.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
 </a>
 
