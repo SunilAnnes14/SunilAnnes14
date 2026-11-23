@@ -1,34 +1,36 @@
-
+<!-- ================= ANIMATED HEADER ================= -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SunilAnnes14&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D9FF,100:7F00FF&height=220&section=header&text=Sunil%20Annes%20S%20K&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Angular%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=18" alt="Header" width="100%"/>
 
 <a href="https://github.com/SunilAnnes14">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Sunil" alt="Name" />
-</a>
-
-<a href="https://sunil-annes-sk.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer;Angular+%2B+TypeScript+Builder;Open+Source+Learner;Always+Shipping+Something+New" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=50&lines=%F0%9F%91%8B+Hey%2C+I'm+Sunil;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%85%B0%EF%B8%8F+Angular+%2B+TypeScript+Builder;%F0%9F%8C%B1+Open+Source+Learner;%F0%9F%9A%80+Always+Shipping+Something+New" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=SunilAnnes14&color=00d9ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 <a href="https://github.com/SunilAnnes14?tab=followers">
   <img src="https://img.shields.io/github/followers/SunilAnnes14?style=flat-square&logo=github&color=00d9ff&labelColor=0d1117" alt="Followers"/>
 </a>
-<img src="https://img.shields.io/badge/based%20in-India-00d9ff?style=flat-square" alt="Based in India"/>
+<img src="https://img.shields.io/badge/based%20in-India%20🇮🇳-00d9ff?style=flat-square&labelColor=0d1117" alt="Based in India"/>
+<img src="https://img.shields.io/badge/status-open%20to%20collab-7F00FF?style=flat-square&labelColor=0d1117" alt="Open to collab"/>
 
 <br/><br/>
 
-<a href="https://sunil-annes-sk.vercel.app//">
+<a href="https://sunil-annes-sk.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
 </a>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-## whoami
+## 🧑‍💻 whoami
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ```ts
 const sunil = {
@@ -42,29 +44,22 @@ const sunil = {
 };
 ```
 
----
+</td>
+<td width="42%" align="center" valign="middle">
 
-## GitHub Statistics
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding animation"/>
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SunilAnnes14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilAnnes14&theme=tokyonight&hide_border=true&layout=donut&count_private=true" height="180" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=SunilAnnes14&theme=tokyonight&hide_border=true&fire=DD2727&ring=00D9FF&currStreakLabel=00D9FF" width="700" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## featured projects
+## 🚀 featured projects
 
 <div align="center">
 
-<a href="https://github.com/sunilannes_SK_portfolio">
+<a href="https://github.com/SunilAnnes14/sunilannes_SK_portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunilAnnes14&repo=sunilannes_SK_portfolio&theme=tokyonight&hide_border=true" alt="Portfolio Project"/>
 </a>
 
@@ -73,46 +68,41 @@ const sunil = {
 <a href="https://sunil-annes-sk.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Portfolio"/>
 </a>
-
-<br/><br/>
-
 <a href="https://github.com/SunilAnnes14?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_All_Repositories-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Repositories"/>
 </a>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-## trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SunilAnnes14&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## activity
+## 🛠️ arsenal
 
 <div align="center">
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilAnnes14&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,html,css,mysql&perline=8" alt="Languages"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,bootstrap,sass,nodejs,express&perline=8" alt="Frameworks"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=spring,flask,mongodb,postgres,firebase,git,github,docker&perline=8" alt="Backend and tools"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,aws,postman,vscode,figma,linux&perline=8" alt="Deploy and tools"/>
 </a>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/SunilAnnes14/SunilAnnes14/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
 </div>
 
----
+<details>
+<summary><b>📋 full list as badges</b></summary>
+<br/>
 
-## arsenal
-
-### languages
+**languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
@@ -123,7 +113,7 @@ const sunil = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### frontend
+**frontend**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -133,7 +123,7 @@ const sunil = {
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
-### backend & databases
+**backend & databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -144,7 +134,7 @@ const sunil = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### deploy & tools
+**deploy & tools**
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
@@ -157,49 +147,70 @@ const sunil = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+</details>
 
-## connect
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
+## 🤝 connect
 
 <div align="center">
 
 <a href="https://github.com/SunilAnnes14">
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:annessunil14@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <a href="https://sunil-annes-sk.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-## quote
-
-<div align="center">
-
-> First, solve the problem.
->
-> Then, write the code.
->
-> — John Johnson
+> *First, solve the problem. Then, write the code.* — John Johnson
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" alt="Footer"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SunilAnnes14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilAnnes14&theme=tokyonight&hide_border=true&layout=donut&count_private=true" height="180" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=SunilAnnes14&theme=tokyonight&hide_border=true&fire=DD2727&ring=00D9FF&currStreakLabel=00D9FF" width="700" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SunilAnnes14&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilAnnes14&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SunilAnnes14/SunilAnnes14/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SunilAnnes14/SunilAnnes14/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/SunilAnnes14/SunilAnnes14/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</picture>
+
+</div>
+
+<!-- ================= ANIMATED FOOTER ================= -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D9FF,100:0d1117&height=120&section=footer&animation=twinkling" alt="Footer" width="100%"/>
 
 **thanks for scrolling this far — now go build something ⚡**
 
