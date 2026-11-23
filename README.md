@@ -1,7 +1,7 @@
 <!-- ================= ANIMATED HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D9FF,100:7F00FF&height=220&section=header&text=Sunil%20Annes%20S%20K&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Angular%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=18" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:00D9FF,100:7F00FF&height=220&section=header&text=Sunil%20Annes%20S%20K&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&rotate=-2&desc=Full-Stack%20Developer%20%E2%80%A2%20Angular%20%E2%80%A2%20TypeScript&descAlignY=55&descSize=18" alt="Header" width="100%"/>
 
 <a href="https://github.com/SunilAnnes14">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=50&lines=%F0%9F%91%8B+Hey%2C+I'm+Sunil;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%85%B0%EF%B8%8F+Angular+%2B+TypeScript+Builder;%F0%9F%8C%B1+Open+Source+Learner;%F0%9F%9A%80+Always+Shipping+Something+New" alt="Typing SVG" />
@@ -59,14 +59,22 @@ const sunil = {
 
 <div align="center">
 
-<a href="https://github.com/SunilAnnes14/sunilannes_SK_portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunilAnnes14&repo=sunilannes_SK_portfolio&theme=tokyonight&hide_border=true" alt="Portfolio Project"/>
+<a href="https://github.com/SunilAnnes14/chennai-floodwatch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SunilAnnes14&repo=chennai-floodwatch&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" alt="chennai-floodwatch"/></a>
+<a href="https://github.com/SunilAnnes14/DataSentry-new"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SunilAnnes14&repo=DataSentry-new&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" alt="DataSentry-new"/></a>
+
+<a href="https://github.com/SunilAnnes14/voice-cloner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SunilAnnes14&repo=voice-cloner&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" alt="voice-cloner"/></a>
+<a href="https://github.com/SunilAnnes14/CareerGapAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SunilAnnes14&repo=CareerGapAI&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" alt="CareerGapAI"/></a>
+
+<a href="https://github.com/SunilAnnes14/kolly-guess-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SunilAnnes14&repo=kolly-guess-game&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" alt="kolly-guess-game"/></a>
+<a href="https://github.com/SunilAnnes14/sunilannes_SK_portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SunilAnnes14&repo=sunilannes_SK_portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" alt="sunilannes_SK_portfolio"/></a>
+
+<br/>
+
+<a href="https://chennai-floodwatch.vercel.app">
+  <img src="https://img.shields.io/badge/🌊_LIVE:_CHENNAI_FLOODWATCH-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Chennai FloodWatch"/>
 </a>
-
-<br/><br/>
-
 <a href="https://sunil-annes-sk.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
 </a>
 <a href="https://github.com/SunilAnnes14?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_All_Repositories-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Repositories"/>
@@ -80,21 +88,40 @@ const sunil = {
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,html,css,mysql&perline=8" alt="Languages"/>
-</a>
+<img src="https://cdn.simpleicons.org/javascript" width="28" height="28" alt="JavaScript" title="JavaScript"/>&nbsp;
+<img src="https://cdn.simpleicons.org/typescript" width="28" height="28" alt="TypeScript" title="TypeScript"/>&nbsp;
+<img src="https://cdn.simpleicons.org/python" width="28" height="28" alt="Python" title="Python"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="28" height="28" alt="Java" title="Java"/>&nbsp;
+<img src="https://cdn.simpleicons.org/c" width="28" height="28" alt="C" title="C"/>&nbsp;
+<img src="https://cdn.simpleicons.org/html5" width="28" height="28" alt="HTML5" title="HTML5"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="28" height="28" alt="CSS3" title="CSS3"/>&nbsp;
+<img src="https://cdn.simpleicons.org/mysql" width="28" height="28" alt="MySQL" title="MySQL"/>&nbsp;
 <br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,bootstrap,sass,nodejs,express&perline=8" alt="Frameworks"/>
-</a>
+<img src="https://cdn.simpleicons.org/angular" width="28" height="28" alt="Angular" title="Angular"/>&nbsp;
+<img src="https://cdn.simpleicons.org/react" width="28" height="28" alt="React" title="React"/>&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs/000000/ffffff" width="28" height="28" alt="Next.js" title="Next.js"/>&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss" width="28" height="28" alt="Tailwind CSS" title="Tailwind CSS"/>&nbsp;
+<img src="https://cdn.simpleicons.org/bootstrap" width="28" height="28" alt="Bootstrap" title="Bootstrap"/>&nbsp;
+<img src="https://cdn.simpleicons.org/sass" width="28" height="28" alt="Sass" title="Sass"/>&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs" width="28" height="28" alt="Node.js" title="Node.js"/>&nbsp;
+<img src="https://cdn.simpleicons.org/express/000000/ffffff" width="28" height="28" alt="Express" title="Express"/>&nbsp;
 <br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,flask,mongodb,postgres,firebase,git,github,docker&perline=8" alt="Backend and tools"/>
-</a>
+<img src="https://cdn.simpleicons.org/springboot" width="28" height="28" alt="Spring Boot" title="Spring Boot"/>&nbsp;
+<img src="https://cdn.simpleicons.org/flask/000000/ffffff" width="28" height="28" alt="Flask" title="Flask"/>&nbsp;
+<img src="https://cdn.simpleicons.org/mongodb" width="28" height="28" alt="MongoDB" title="MongoDB"/>&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql" width="28" height="28" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
+<img src="https://cdn.simpleicons.org/firebase" width="28" height="28" alt="Firebase" title="Firebase"/>&nbsp;
+<img src="https://cdn.simpleicons.org/git" width="28" height="28" alt="Git" title="Git"/>&nbsp;
+<img src="https://cdn.simpleicons.org/github/000000/ffffff" width="28" height="28" alt="GitHub" title="GitHub"/>&nbsp;
+<img src="https://cdn.simpleicons.org/docker" width="28" height="28" alt="Docker" title="Docker"/>&nbsp;
 <br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,aws,postman,vscode,figma,linux&perline=8" alt="Deploy and tools"/>
-</a>
+<img src="https://cdn.simpleicons.org/vercel/000000/ffffff" width="28" height="28" alt="Vercel" title="Vercel"/>&nbsp;
+<img src="https://cdn.simpleicons.org/netlify" width="28" height="28" alt="Netlify" title="Netlify"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="28" height="28" alt="AWS" title="AWS"/>&nbsp;
+<img src="https://cdn.simpleicons.org/postman" width="28" height="28" alt="Postman" title="Postman"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code" title="VS Code"/>&nbsp;
+<img src="https://cdn.simpleicons.org/figma" width="28" height="28" alt="Figma" title="Figma"/>&nbsp;
+<img src="https://cdn.simpleicons.org/linux" width="28" height="28" alt="Linux" title="Linux"/>&nbsp;
 
 </div>
 
